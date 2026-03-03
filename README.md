@@ -49,12 +49,6 @@ Hi, I'm Cristian, an AI Engineer from Chile 🇨🇱.
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
-</div>
-
-<!--x callampin divider-->
-
-![](/assets/images/horizontal-divider-gradient.gif)
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -71,7 +65,6 @@ Hi, I'm Cristian, an AI Engineer from Chile 🇨🇱.
 
 <!--x callampin divider-->
 
-![](/assets/images/horizontal-divider-gradient.gif)
 
 <div align="center">
     Made with ❤️ by <a href="https://csalazar.cl" target="_blank">callampin</a>
