@@ -42,7 +42,7 @@ Hi, I'm Cristian, an AI Engineer from Chile 🇨🇱.
 <h3 align="center">✨My Portfolio Website✨</h3>
 
 <a href="https://www.csalazar.cl" alt="Callampin Web Portfolio">
-<img src="https://private-user-images.githubusercontent.com/68177901/557492252-e1c8860b-b2af-4186-8a39-06b39fbc9b6b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI1NDE2MTQsIm5iZiI6MTc3MjU0MTMxNCwicGF0aCI6Ii82ODE3NzkwMS81NTc0OTIyNTItZTFjODg2MGItYjJhZi00MTg2LThhMzktMDZiMzlmYmM5YjZiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzAzVDEyMzUxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExYTM5YWU2NzVlYzNmYTM5NjBjYmQ1NzJhMjc5YmU5Mzc1NmJmM2I0ODEwZjcxNzhmYjlkYjgyM2JlNDQ1ZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.T5-ck1clAizy7evwTwwYC5K9u8yBlpY0Qii__Dt6rRk" align="right">
+<img src="https://res.cloudinary.com/do6bpao6a/image/upload/v1773151036/image_2026-03-10_10-55-19_izrzpd.png" align="right">
 </a>
 
 <!--x callampin divider-->
