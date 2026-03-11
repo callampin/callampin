@@ -41,7 +41,7 @@ Hi, I'm Cristian, an AI Engineer from Chile 🇨🇱.
 
 <h3 align="center">✨My Portfolio Website✨</h3>
 
-<a href="https://www.csalazar.cl" alt="Callampin Web Portfolio">
+<a href="https://csalazar.cl" alt="Callampin Web Portfolio">
 <img src="https://res.cloudinary.com/do6bpao6a/image/upload/v1773151036/image_2026-03-10_10-55-19_izrzpd.png" align="right">
 </a>
 
