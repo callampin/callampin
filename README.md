@@ -14,7 +14,7 @@ class Engineer:
         self.name = "Cristian"
         self.role = "AI Engineer"
         self.home = "Chile 🇨🇱"
-        self.os   = "Pop!_OS"
+        self.os   = "Fedora"
 
     def introduce(self):
         print(f"Hi, I'm {self.name}, an {self.role} from {self.home}.")
