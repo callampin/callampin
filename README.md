@@ -39,16 +39,6 @@ Hi, I'm Cristian, an AI Engineer from Chile 🇨🇱.
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
-<h3 align="center">✨My Portfolio Website✨</h3>
-
-<a href="https://csalazar.cl" alt="Callampin Web Portfolio">
-<img src="https://res.cloudinary.com/do6bpao6a/image/upload/v1775078291/brave_Uxa8cjR6TA_hdhcou.png" align="right">
-</a>
-
-<!--x callampin divider-->
-
-![](/assets/images/horizontal-divider-gradient.gif)
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
