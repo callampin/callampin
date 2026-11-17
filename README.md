@@ -12,7 +12,7 @@ GNU nano 8.0                ~/lab/identity/main.py
 class Engineer:
     def __init__(self):
         self.name = "Cristian"
-        self.role = "AI Engineer"
+        self.role = "Systems & Automation Engineer"
         self.home = "Chile 🇨🇱"
         self.os   = "Fedora"
 
@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
 ```cmd
 ~/lab/identity ❯ python3 main.py
-Hi, I'm Cristian, an AI Engineer from Chile 🇨🇱.
+Hi, I'm Cristian, an Systems & Automation Engineer from Chile 🇨🇱.
 ~/lab/identity ❯ █
 ```
 
